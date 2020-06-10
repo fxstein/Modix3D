@@ -1,0 +1,858 @@
+2020-06-07 15:27:17 Event logging started
+2020-06-07 15:42:15 Finished printing file 0:/gcodes/MB08x05-60-PLA_Temperature-Tower-Tower-v23.gcode, print time was 0h 42m
+2020-06-07 16:13:29 HTTP client 192.168.1.133 login succeeded
+2020-06-07 16:13:30 HTTP client 192.168.1.134 login succeeded
+2020-06-07 16:27:11 HTTP client 192.168.1.134 login succeeded
+2020-06-07 16:27:25 HTTP client 192.168.1.134 disconnected
+2020-06-07 16:27:25 Started printing file 0:/gcodes/MB08x05-60-PLA_Duet-2-Wifi-+-Duex-5-Case-Case-v32.gcode
+2020-06-07 16:27:25 HTTP client 192.168.1.134 login succeeded
+2020-06-07 16:31:59 Leadscrew adjustments made: -0.189 -0.125 -0.189 -0.125, points used 4, deviation before 0.161 after 0.000
+2020-06-07 16:38:32 HTTP client 192.168.1.133 login succeeded
+2020-06-07 16:38:34 HTTP client 192.168.1.134 login succeeded
+2020-06-07 16:59:27 HTTP client 192.168.1.133 login succeeded
+2020-06-07 16:59:30 HTTP client 192.168.1.134 login succeeded
+2020-06-07 17:00:57 HTTP client 192.168.1.133 login succeeded
+2020-06-07 17:00:58 HTTP client 192.168.1.134 login succeeded
+2020-06-07 17:36:50 HTTP client 192.168.1.133 login succeeded
+2020-06-07 17:36:53 HTTP client 192.168.1.134 login succeeded
+2020-06-07 17:36:53 HTTP client 192.168.1.134 login succeeded
+2020-06-07 17:36:54 HTTP client 192.168.1.134 login succeeded
+2020-06-07 17:43:15 HTTP client 192.168.1.133 login succeeded
+2020-06-07 18:00:32 HTTP client 192.168.1.133 login succeeded
+2020-06-07 18:01:48 HTTP client 192.168.1.133 login succeeded
+2020-06-07 18:02:05 HTTP client 192.168.1.133 login succeeded
+2020-06-07 18:02:23 HTTP client 192.168.1.133 login succeeded
+2020-06-07 18:14:05 HTTP client 192.168.1.182 attempted login with incorrect password
+2020-06-07 18:16:28 HTTP client 192.168.1.182 login succeeded
+2020-06-07 18:16:53 Resume state saved
+2020-06-07 18:16:59 Printing paused at X447.8 Y402.0 Z2.8
+2020-06-07 18:17:03 Cancelled printing file 0:/gcodes/MB08x05-60-PLA_Duet-2-Wifi-+-Duex-5-Case-Case-v32.gcode, print time was 1h 49m
+2020-06-07 18:19:09 Leadscrew adjustments made: -0.038 -0.137 -0.003 -0.075, points used 4, deviation before 0.079 after 0.000
+2020-06-07 18:21:00 64 points probed, min error -0.142, max error 0.094, mean -0.006, deviation 0.060
+Height map saved to file heightmap.csv
+2020-06-07 19:03:24 HTTP client 192.168.1.182 login succeeded
+2020-06-07 19:08:17 HTTP client 192.168.1.182 login succeeded
+2020-06-07 19:08:34 HTTP client 192.168.1.182 login succeeded
+2020-06-07 19:09:42 Started printing file 0:/gcodes/MB08x03-100-PLA_Flow-Calibration-Body1-v5.gcode
+2020-06-07 19:09:42 Warning: Driver(s) 5 stalled at Z height 4.03
+2020-06-07 19:10:06 Cancelled printing file 0:/gcodes/MB08x03-100-PLA_Flow-Calibration-Body1-v5.gcode, print time was 0h 0m
+2020-06-07 19:10:06 Event logging stopped
+power up + 00:00:00 Event logging started
+power up + 00:00:00 Warning: the height map was loaded when the current Z=0 datum was not determined probing. This may result in a height offset.
+power up + 00:00:01 WiFi module started
+power up + 00:00:05 WiFi module is connected to access point IoT Network, IP address 192.168.11.21
+power up + 00:00:09 HTTP client 192.168.1.182 attempted login with incorrect password
+power up + 00:00:18 HTTP client 192.168.1.182 login succeeded
+2020-06-07 19:10:27 Date and time set at power up + 00:00:18
+2020-06-07 19:12:18 HTTP client 192.168.1.182 login succeeded
+2020-06-07 19:12:33 HTTP client 192.168.1.182 login succeeded
+2020-06-07 19:21:13 Leadscrew adjustments made: -0.027 0.012 -0.010 0.017, points used 4, deviation before 0.017 after 0.000
+2020-06-07 19:32:41 HTTP client 192.168.1.133 login succeeded
+2020-06-07 19:32:56 HTTP client 192.168.1.134 login succeeded
+2020-06-07 20:08:51 HTTP client 192.168.1.134 login succeeded
+2020-06-07 20:28:14 HTTP client 192.168.1.134 login succeeded
+2020-06-07 20:28:15 HTTP client 192.168.1.134 disconnected
+2020-06-07 20:28:15 Started printing file 0:/gcodes/MB08x05-60-PLA_Flow-Calibration-Body1-v6.gcode
+2020-06-07 20:28:15 HTTP client 192.168.1.134 login succeeded
+2020-06-07 20:31:32 Leadscrew adjustments made: -0.154 -0.073 -0.226 -0.185, points used 4, deviation before 0.170 after 0.000
+2020-06-07 20:31:44 Resume state saved
+2020-06-07 20:32:30 Printing paused at X274.1 Y271.3 Z0.3
+2020-06-07 20:32:30 Cancelled printing file 0:/gcodes/MB08x05-60-PLA_Flow-Calibration-Body1-v6.gcode, print time was 0h 3m
+2020-06-07 20:34:29 HTTP client 192.168.1.134 login succeeded
+2020-06-07 20:34:29 HTTP client 192.168.1.134 disconnected
+2020-06-07 20:34:29 Started printing file 0:/gcodes/MB08x05-60-PLA_Flow-Calibration-Body1-v6.gcode
+2020-06-07 20:34:30 HTTP client 192.168.1.134 login succeeded
+2020-06-07 20:35:43 Leadscrew adjustments made: -0.100 -0.181 -0.085 -0.134, points used 4, deviation before 0.129 after 0.000
+2020-06-07 20:46:03 Finished printing file 0:/gcodes/MB08x05-60-PLA_Flow-Calibration-Body1-v6.gcode, print time was 0h 12m
+2020-06-07 20:52:58 Event logging stopped
+power up + 00:00:00 Event logging started
+power up + 00:00:00 Warning: the height map was loaded when the current Z=0 datum was not determined probing. This may result in a height offset.
+power up + 00:00:01 WiFi module started
+power up + 00:00:05 WiFi module is connected to access point IoT Network, IP address 192.168.11.21
+power up + 00:00:05 HTTP client 192.168.1.134 login succeeded
+2020-06-07 20:53:05 Date and time set at power up + 00:00:05
+2020-06-07 20:53:28 Started printing file 0:/gcodes/MB08x05-60-PLA_Flow-Calibration-Body1-v6.gcode
+2020-06-07 20:55:29 Leadscrew adjustments made: -0.165 -0.105 -0.184 -0.144, points used 4, deviation before 0.153 after 0.000
+2020-06-07 21:05:49 Finished printing file 0:/gcodes/MB08x05-60-PLA_Flow-Calibration-Body1-v6.gcode, print time was 0h 12m
+2020-06-07 21:20:33 HTTP client 192.168.1.134 login succeeded
+2020-06-07 21:20:33 HTTP client 192.168.1.134 disconnected
+2020-06-07 21:20:33 Started printing file 0:/gcodes/MB08x05-60-PLA_Flow-Calibration-Body1-v6.gcode
+2020-06-07 21:20:34 HTTP client 192.168.1.134 login succeeded
+2020-06-07 21:23:43 Leadscrew adjustments made: -0.172 -0.149 -0.158 -0.151, points used 4, deviation before 0.158 after 0.000
+2020-06-07 21:31:35 HTTP client 192.168.1.133 login succeeded
+2020-06-07 21:31:37 HTTP client 192.168.1.134 login succeeded
+2020-06-07 21:39:20 Finished printing file 0:/gcodes/MB08x05-60-PLA_Flow-Calibration-Body1-v6.gcode, print time was 0h 19m
+2020-06-07 21:47:29 HTTP client 192.168.1.133 login succeeded
+2020-06-07 21:47:33 HTTP client 192.168.1.134 login succeeded
+2020-06-07 21:49:41 HTTP client 192.168.1.133 login succeeded
+2020-06-07 21:49:44 HTTP client 192.168.1.134 login succeeded
+2020-06-07 21:51:45 HTTP client 192.168.1.133 login succeeded
+2020-06-07 21:51:48 HTTP client 192.168.1.134 login succeeded
+2020-06-07 21:55:47 HTTP client 192.168.1.134 login succeeded
+2020-06-07 21:55:48 HTTP client 192.168.1.134 disconnected
+2020-06-07 21:55:48 Started printing file 0:/gcodes/MB08x03-80-PLA_MB08x05-60-PLA_Flow-Calibration-Body1-v6.gcode
+2020-06-07 21:55:49 HTTP client 192.168.1.134 login succeeded
+2020-06-07 21:59:05 Leadscrew adjustments made: -0.160 -0.164 -0.162 -0.169, points used 4, deviation before 0.164 after 0.000
+2020-06-07 22:11:53 Finished printing file 0:/gcodes/MB08x03-80-PLA_MB08x05-60-PLA_Flow-Calibration-Body1-v6.gcode, print time was 0h 16m
+2020-06-07 22:17:59 Event logging stopped
+power up + 00:00:00 Event logging started
+power up + 00:00:00 Warning: the height map was loaded when the current Z=0 datum was not determined probing. This may result in a height offset.
+power up + 00:00:01 WiFi module started
+power up + 00:00:05 WiFi module is connected to access point IoT Network, IP address 192.168.11.21
+power up + 00:00:06 HTTP client 192.168.1.134 login succeeded
+2020-06-07 22:18:05 Date and time set at power up + 00:00:06
+2020-06-07 22:19:56 HTTP client 192.168.1.134 login succeeded
+2020-06-07 22:19:57 HTTP client 192.168.1.134 disconnected
+2020-06-07 22:19:57 Started printing file 0:/gcodes/MB08x03-80-PLA_MB08x05-60-PLA_Flow-Calibration-Body1-v6.gcode
+2020-06-07 22:19:58 HTTP client 192.168.1.134 login succeeded
+2020-06-07 22:21:53 Leadscrew adjustments made: -0.145 -0.139 -0.151 -0.140, points used 4, deviation before 0.144 after 0.000
+2020-06-07 22:31:02 HTTP client 192.168.1.134 login succeeded
+2020-06-07 22:31:21 HTTP client 192.168.1.133 login succeeded
+2020-06-07 22:31:21 HTTP client 192.168.1.134 login succeeded
+2020-06-07 22:33:51 Finished printing file 0:/gcodes/MB08x03-80-PLA_MB08x05-60-PLA_Flow-Calibration-Body1-v6.gcode, print time was 0h 14m
+2020-06-07 22:38:16 Event logging stopped
+power up + 00:00:00 Event logging started
+power up + 00:00:00 Warning: the height map was loaded when the current Z=0 datum was not determined probing. This may result in a height offset.
+power up + 00:00:01 WiFi module started
+power up + 00:00:07 WiFi module is connected to access point IoT Network, IP address 192.168.11.21
+power up + 00:00:07 HTTP client 192.168.1.134 login succeeded
+2020-06-07 22:38:25 Date and time set at power up + 00:00:07
+2020-06-07 22:38:34 HTTP client 192.168.1.134 login succeeded
+2020-06-07 22:38:34 HTTP client 192.168.1.134 disconnected
+2020-06-07 22:38:34 Started printing file 0:/gcodes/MB08x03-90-PLA_MB08x05-60-PLA_Flow-Calibration-Body1-v6.gcode
+2020-06-07 22:38:34 HTTP client 192.168.1.134 login succeeded
+2020-06-07 22:40:11 Leadscrew adjustments made: -0.128 -0.147 -0.120 -0.137, points used 4, deviation before 0.133 after 0.000
+2020-06-07 22:49:39 HTTP client 192.168.1.133 login succeeded
+2020-06-07 22:49:42 HTTP client 192.168.1.134 login succeeded
+2020-06-07 22:51:17 Finished printing file 0:/gcodes/MB08x03-90-PLA_MB08x05-60-PLA_Flow-Calibration-Body1-v6.gcode, print time was 0h 13m
+2020-06-07 22:52:19 HTTP client 192.168.1.133 login succeeded
+2020-06-07 22:52:21 HTTP client 192.168.1.134 login succeeded
+2020-06-07 22:55:53 HTTP client 192.168.1.134 login succeeded
+2020-06-07 22:55:54 HTTP client 192.168.1.134 disconnected
+2020-06-07 22:55:54 Started printing file 0:/gcodes/MB08x03-90-PLA_MB08x05-60-PLA_Flow-Calibration-Body1-v6.gcode
+2020-06-07 22:55:55 HTTP client 192.168.1.134 login succeeded
+2020-06-07 22:57:48 Leadscrew adjustments made: -0.124 -0.136 -0.121 -0.118, points used 4, deviation before 0.125 after 0.000
+2020-06-07 23:08:29 HTTP client 192.168.1.133 login succeeded
+2020-06-07 23:08:30 HTTP client 192.168.1.134 login succeeded
+2020-06-07 23:19:22 Finished printing file 0:/gcodes/MB08x03-90-PLA_MB08x05-60-PLA_Flow-Calibration-Body1-v6.gcode, print time was 0h 23m
+2020-06-07 23:20:51 HTTP client 192.168.1.133 login succeeded
+2020-06-07 23:20:52 HTTP client 192.168.1.134 login succeeded
+2020-06-07 23:25:07 HTTP client 192.168.1.134 login succeeded
+2020-06-07 23:25:37 HTTP client 192.168.1.134 disconnected
+2020-06-07 23:25:37 Started printing file 0:/gcodes/MB08x03-90-PLA_MB08x05-60-PLA_Duet-2-Wifi-+-Duex-5-Case-Case-v32.gcode
+2020-06-07 23:25:37 HTTP client 192.168.1.134 login succeeded
+2020-06-07 23:27:46 Leadscrew adjustments made: -0.137 -0.117 -0.141 -0.140, points used 4, deviation before 0.134 after 0.000
+2020-06-07 23:31:43 Resume state saved
+2020-06-07 23:31:50 Printing paused at X151.4 Y426.5 Z0.3
+2020-06-07 23:31:53 Cancelled printing file 0:/gcodes/MB08x03-90-PLA_MB08x05-60-PLA_Duet-2-Wifi-+-Duex-5-Case-Case-v32.gcode, print time was 0h 6m
+2020-06-07 23:34:18 Started printing file 0:/gcodes/MB08x03-90-PLA_MB08x05-60-PLA_Duet-2-Wifi-+-Duex-5-Case-Case-v32.gcode
+2020-06-07 23:35:32 Leadscrew adjustments made: -0.094 -0.142 -0.084 -0.110, points used 4, deviation before 0.109 after 0.000
+2020-06-07 23:38:46 Resume state saved
+2020-06-07 23:38:52 Printing paused at X403.5 Y190.7 Z0.3
+2020-06-07 23:39:57 Cancelled printing file 0:/gcodes/MB08x03-90-PLA_MB08x05-60-PLA_Duet-2-Wifi-+-Duex-5-Case-Case-v32.gcode, print time was 0h 4m
+2020-06-07 23:40:59 HTTP client 192.168.1.134 login succeeded
+2020-06-07 23:41:28 HTTP client 192.168.1.134 disconnected
+2020-06-07 23:41:28 Started printing file 0:/gcodes/MB08x03-90-PLA_MB08x05-60-PLA_Duet-2-Wifi-+-Duex-5-Case-Case-v32.gcode
+2020-06-07 23:41:29 HTTP client 192.168.1.134 login succeeded
+2020-06-07 23:41:53 Leadscrew adjustments made: -0.101 -0.104 -0.100 -0.094, points used 4, deviation before 0.100 after 0.000
+2020-06-07 23:51:56 HTTP client 192.168.1.133 login succeeded
+2020-06-07 23:51:56 HTTP client 192.168.1.134 login succeeded
+2020-06-08 00:52:48 HTTP client 192.168.1.133 login succeeded
+2020-06-08 00:52:51 HTTP client 192.168.1.134 login succeeded
+2020-06-08 02:41:52 Warning: Driver(s) 5 stalled at Z height 1.75
+2020-06-08 02:47:12 Warning: Driver(s) 5 stalled at Z height 2.05
+2020-06-08 02:52:36 Warning: Driver(s) 5 stalled at Z height 2.35
+2020-06-08 02:58:36 Warning: Driver(s) 5 stalled at Z height 2.65
+2020-06-08 03:01:59 Warning: Driver(s) 5 stalled at Z height 2.65
+2020-06-08 03:04:39 Warning: Driver(s) 5 stalled at Z height 2.95
+2020-06-08 03:10:40 Warning: Driver(s) 5 stalled at Z height 3.25
+2020-06-08 03:32:02 HTTP client 192.168.1.134 login succeeded
+2020-06-08 03:36:24 HTTP client 192.168.1.134 login succeeded
+2020-06-08 03:52:21 Warning: Driver(s) 5 stalled at Z height 3.55
+2020-06-08 03:53:40 Warning: Driver(s) 5 stalled at Z height 3.55
+2020-06-08 03:53:44 Warning: Driver(s) 5 stalled at Z height 3.55
+2020-06-08 04:30:46 HTTP client 192.168.1.133 login succeeded
+2020-06-08 04:30:50 HTTP client 192.168.1.134 login succeeded
+2020-06-08 04:33:41 Warning: Driver(s) 5 stalled at Z height 3.55
+2020-06-08 04:34:32 Warning: Driver(s) 5 stalled at Z height 3.60
+2020-06-08 04:36:00 Warning: Driver(s) 5 stalled at Z height 3.60
+2020-06-08 04:36:50 Warning: Driver(s) 5 stalled at Z height 3.85
+2020-06-08 04:37:12 Warning: Driver(s) 5 stalled at Z height 3.85
+2020-06-08 05:05:57 Warning: Driver(s) 5 stalled at Z height 3.60
+2020-06-08 05:06:12 Warning: Driver(s) 5 stalled at Z height 3.85
+2020-06-08 05:07:57 Warning: Driver(s) 5 stalled at Z height 3.85
+2020-06-08 05:15:04 Warning: Driver(s) 5 stalled at Z height 3.85
+2020-06-08 05:15:47 Warning: Driver(s) 5 stalled at Z height 3.90
+2020-06-08 05:17:00 Warning: Driver(s) 5 stalled at Z height 4.15
+2020-06-08 05:17:05 Warning: Driver(s) 5 stalled at Z height 3.90
+2020-06-08 05:17:14 Warning: Driver(s) 5 stalled at Z height 4.15
+2020-06-08 05:17:19 Warning: Driver(s) 5 stalled at Z height 3.90
+2020-06-08 05:17:57 Warning: Driver(s) 5 stalled at Z height 3.90
+2020-06-08 05:18:40 Warning: Driver(s) 5 stalled at Z height 4.15
+2020-06-08 05:23:02 HTTP client 192.168.1.133 login succeeded
+2020-06-08 05:23:06 HTTP client 192.168.1.134 login succeeded
+2020-06-08 05:23:06 HTTP client 192.168.1.134 login succeeded
+2020-06-08 05:23:08 HTTP client 192.168.1.134 login succeeded
+2020-06-08 05:57:13 Warning: Driver(s) 5 stalled at Z height 4.15
+2020-06-08 05:57:51 Warning: Driver(s) 5 stalled at Z height 4.45
+2020-06-08 05:58:10 Warning: Driver(s) 5 stalled at Z height 4.45
+2020-06-08 06:00:21 Warning: Driver(s) 5 stalled at Z height 4.45
+2020-06-08 06:04:19 Warning: Driver(s) 5 stalled at Z height 4.80
+2020-06-08 06:04:36 Warning: Driver(s) 5 stalled at Z height 5.05
+2020-06-08 06:06:11 Warning: Driver(s) 5 stalled at Z height 5.05
+2020-06-08 06:06:48 Warning: Driver(s) 5 stalled at Z height 4.80
+2020-06-08 06:07:53 Warning: Driver(s) 5 stalled at Z height 5.35
+2020-06-08 06:09:19 Warning: Driver(s) 5 stalled at Z height 5.35
+2020-06-08 06:09:51 Warning: Driver(s) 5 stalled at Z height 5.10
+2020-06-08 06:09:55 Warning: Driver(s) 5 stalled at Z height 5.10
+2020-06-08 06:10:00 Warning: Driver(s) 5 stalled at Z height 5.10
+2020-06-08 06:11:03 Warning: Driver(s) 5 stalled at Z height 5.65
+2020-06-08 06:13:15 Warning: Driver(s) 5 stalled at Z height 5.65
+2020-06-08 06:14:19 Warning: Driver(s) 5 stalled at Z height 5.95
+2020-06-08 06:15:17 Warning: Driver(s) 5 stalled at Z height 5.95
+2020-06-08 06:15:46 Warning: Driver(s) 5 stalled at Z height 5.70
+2020-06-08 06:16:17 Warning: Driver(s) 5 stalled at Z height 5.95
+2020-06-08 06:16:22 Warning: Driver(s) 5 stalled at Z height 5.70
+2020-06-08 06:16:30 Warning: Driver(s) 5 stalled at Z height 5.70
+2020-06-08 06:17:30 Warning: Driver(s) 5 stalled at Z height 6.25
+2020-06-08 06:19:41 Warning: Driver(s) 5 stalled at Z height 6.25
+2020-06-08 06:19:46 Warning: Driver(s) 5 stalled at Z height 6.00
+2020-06-08 06:19:52 Resume state saved
+2020-06-08 06:19:59 Printing paused at X152.6 Y418.2 Z6.3
+2020-06-08 06:20:03 Cancelled printing file 0:/gcodes/MB08x03-90-PLA_MB08x05-60-PLA_Duet-2-Wifi-+-Duex-5-Case-Case-v32.gcode, print time was 6h 38m
+2020-06-08 06:20:03 Event logging stopped
+power up + 00:00:00 Event logging started
+power up + 00:00:00 Warning: the height map was loaded when the current Z=0 datum was not determined probing. This may result in a height offset.
+power up + 00:00:01 WiFi module started
+power up + 00:00:07 WiFi module is connected to access point IoT Network, IP address 192.168.11.21
+power up + 00:00:01 Event logging started
+power up + 00:00:01 Warning: the height map was loaded when the current Z=0 datum was not determined probing. This may result in a height offset.
+power up + 00:00:01 WiFi module started
+power up + 00:00:05 WiFi module is connected to access point IoT Network, IP address 192.168.11.21
+power up + 00:00:05 HTTP client 192.168.1.134 login succeeded
+2020-06-08 06:24:05 Date and time set at power up + 00:00:05
+2020-06-08 06:38:44 HTTP client 192.168.1.133 login succeeded
+2020-06-08 06:38:45 HTTP client 192.168.1.134 login succeeded
+2020-06-08 06:38:56 HTTP client 192.168.1.182 login succeeded
+2020-06-08 06:39:09 HTTP client 192.168.1.182 login succeeded
+2020-06-08 06:40:44 HTTP client 192.168.1.182 login succeeded
+2020-06-08 06:49:50 HTTP client 192.168.1.182 attempted login with incorrect password
+2020-06-08 06:50:01 HTTP client 192.168.1.182 login succeeded
+2020-06-08 07:12:21 HTTP client 192.168.1.133 login succeeded
+2020-06-08 07:12:22 HTTP client 192.168.1.134 login succeeded
+2020-06-08 07:20:25 HTTP client 192.168.1.161 attempted login with incorrect password
+2020-06-08 07:20:35 HTTP client 192.168.1.161 login succeeded
+2020-06-08 07:22:35 HTTP client 192.168.1.161 login succeeded
+2020-06-08 07:27:43 HTTP client 192.168.1.161 login succeeded
+2020-06-08 07:32:53 HTTP client 192.168.1.161 login succeeded
+2020-06-08 07:38:59 HTTP client 192.168.1.161 login succeeded
+2020-06-08 07:41:01 Event logging stopped
+power up + 00:00:00 Event logging started
+power up + 00:00:00 Warning: the height map was loaded when the current Z=0 datum was not determined probing. This may result in a height offset.
+power up + 00:00:01 WiFi module started
+power up + 00:00:07 WiFi module is connected to access point IoT Network, IP address 192.168.11.21
+power up + 00:00:07 HTTP client 192.168.1.161 login succeeded
+2020-06-08 07:41:03 Date and time set at power up + 00:00:07
+2020-06-08 07:59:43 HTTP client 192.168.1.161 login succeeded
+2020-06-08 08:02:39 HTTP client 192.168.1.161 login succeeded
+2020-06-08 08:09:18 HTTP client 192.168.1.161 login succeeded
+2020-06-08 08:24:09 HTTP client 192.168.1.161 login succeeded
+2020-06-08 08:28:26 HTTP client 192.168.1.161 login succeeded
+2020-06-08 08:37:15 HTTP client 192.168.1.134 login succeeded
+2020-06-08 08:41:39 HTTP client 192.168.1.133 login succeeded
+2020-06-08 08:41:41 HTTP client 192.168.1.134 login succeeded
+2020-06-08 08:44:03 HTTP client 192.168.1.133 login succeeded
+2020-06-08 08:44:04 HTTP client 192.168.1.134 login succeeded
+2020-06-08 08:47:58 Error: Bad command: GO Z3
+2020-06-08 08:48:13 Error: G0/G1: insufficient axes homed
+2020-06-08 08:50:48 HTTP client 192.168.1.133 login succeeded
+2020-06-08 08:50:49 HTTP client 192.168.1.134 login succeeded
+2020-06-08 09:03:27 HTTP client 192.168.1.133 login succeeded
+2020-06-08 09:03:28 HTTP client 192.168.1.134 login succeeded
+2020-06-08 09:10:22 HTTP client 192.168.1.133 login succeeded
+2020-06-08 09:10:24 HTTP client 192.168.1.134 login succeeded
+2020-06-08 09:10:42 HTTP client 192.168.1.134 login succeeded
+2020-06-08 09:11:13 Error: G0/G1: insufficient axes homed
+2020-06-08 09:13:31 HTTP client 192.168.1.134 login succeeded
+2020-06-08 09:14:53 HTTP client 192.168.1.133 attempted login with incorrect password
+2020-06-08 09:15:19 HTTP client 192.168.1.133 login succeeded
+2020-06-08 09:23:11 Error: Heating fault on heater 1, temperature excursion exceeded 15.0°C
+2020-06-08 09:28:02 HTTP client 192.168.1.133 login succeeded
+2020-06-08 09:28:10 Event logging stopped
+power up + 00:00:00 Event logging started
+power up + 00:00:00 Warning: the height map was loaded when the current Z=0 datum was not determined probing. This may result in a height offset.
+power up + 00:00:01 WiFi module started
+power up + 00:00:05 WiFi module is connected to access point IoT Network, IP address 192.168.11.21
+power up + 00:04:44 HTTP client 192.168.1.133 login succeeded
+2020-06-08 09:32:58 Date and time set at power up + 00:04:44
+2020-06-08 09:34:12 HTTP client 192.168.1.133 login succeeded
+2020-06-08 09:35:16 HTTP client 192.168.1.133 login succeeded
+2020-06-08 09:37:49 HTTP client 192.168.1.133 login succeeded
+power up + 00:00:01 Event logging started
+power up + 00:00:01 Warning: the height map was loaded when the current Z=0 datum was not determined probing. This may result in a height offset.
+power up + 00:00:01 WiFi module started
+power up + 00:00:05 WiFi module is connected to access point IoT Network, IP address 192.168.11.21
+power up + 00:01:41 Leadscrew adjustments made: -0.015 -0.073 0.022 0.011, points used 4, deviation before 0.038 after 0.000
+power up + 00:03:12 HTTP client 192.168.1.133 login succeeded
+2020-06-08 09:45:47 Date and time set at power up + 00:03:12
+2020-06-08 09:46:05 HTTP client 192.168.1.133 login succeeded
+2020-06-08 09:47:21 Event logging stopped
+power up + 00:00:00 Event logging started
+power up + 00:00:00 Warning: the height map was loaded when the current Z=0 datum was not determined probing. This may result in a height offset.
+power up + 00:00:01 WiFi module started
+power up + 00:00:05 WiFi module is connected to access point IoT Network, IP address 192.168.11.21
+power up + 00:00:05 HTTP client 192.168.1.133 attempted login with incorrect password
+power up + 00:00:19 HTTP client 192.168.1.133 login succeeded
+2020-06-08 09:47:40 Date and time set at power up + 00:00:19
+2020-06-08 09:51:31 Leadscrew adjustments made: -0.041 -0.045 -0.038 -0.005, points used 4, deviation before 0.036 after 0.000
+2020-06-08 09:54:01 Event logging stopped
+power up + 00:00:00 Event logging started
+power up + 00:00:00 Warning: the height map was loaded when the current Z=0 datum was not determined probing. This may result in a height offset.
+power up + 00:00:01 WiFi module started
+power up + 00:00:05 WiFi module is connected to access point IoT Network, IP address 192.168.11.21
+power up + 00:00:05 HTTP client 192.168.1.133 login succeeded
+2020-06-08 09:54:07 Date and time set at power up + 00:00:05
+2020-06-08 09:54:35 Leadscrew adjustments made: -0.030 -0.028 -0.020 -0.039, points used 4, deviation before 0.030 after 0.000
+2020-06-08 10:45:17 HTTP client 192.168.1.133 login succeeded
+2020-06-08 10:45:21 HTTP client 192.168.1.133 disconnected
+2020-06-08 10:45:21 Started printing file 0:/gcodes/MB08x03-90-PLA_String-Test-Structure-v10.gcode
+2020-06-08 10:45:21 Resume state saved
+2020-06-08 10:45:21 Extruder 1 reports no filament
+2020-06-08 10:45:21 Error: Attempting to extrude with no tool selected.
+2020-06-08 10:45:22 HTTP client 192.168.1.133 login succeeded
+2020-06-08 10:45:23 Printing paused at X0.0 Y0.0 Z4.5
+2020-06-08 10:48:17 Error: Attempting to extrude with no tool selected.
+2020-06-08 10:48:18 Printing resumed
+2020-06-08 10:48:18 Resume state saved
+2020-06-08 10:48:18 Extruder 0 reports no filament
+2020-06-08 10:48:19 Printing paused at X0.0 Y0.0 Z4.5
+2020-06-08 10:48:21 Error: Attempting to extrude with no tool selected.
+2020-06-08 10:49:43 Cancelled printing file 0:/gcodes/MB08x03-90-PLA_String-Test-Structure-v10.gcode, print time was 0h 0m
+2020-06-08 10:49:43 Error: G10: Attempt to set/report offsets and temperatures for no selected tool
+2020-06-08 10:49:43 Error: G10: Attempt to set/report offsets and temperatures for no selected tool
+2020-06-08 10:50:22 Leadscrew adjustments made: -0.020 -0.014 -0.023 -0.025, points used 4, deviation before 0.021 after 0.000
+2020-06-08 10:54:39 HTTP client 192.168.1.133 login succeeded
+2020-06-08 10:54:43 HTTP client 192.168.1.133 disconnected
+2020-06-08 10:54:43 Started printing file 0:/gcodes/MB08x03-90-PLA_String-Test-Structure-v10.gcode
+2020-06-08 10:54:43 Resume state saved
+2020-06-08 10:54:43 Extruder 1 reports no filament
+2020-06-08 10:54:44 HTTP client 192.168.1.133 login succeeded
+2020-06-08 10:54:46 Printing paused at X0.0 Y60.0 Z9.5
+2020-06-08 10:55:06 Cancelled printing file 0:/gcodes/MB08x03-90-PLA_String-Test-Structure-v10.gcode, print time was 0h 0m
+2020-06-08 10:56:56 Started printing file 0:/gcodes/MB08x03-90-PLA_String-Test-Structure-v10.gcode
+2020-06-08 10:58:27 Leadscrew adjustments made: -0.161 -0.118 -0.181 -0.155, points used 4, deviation before 0.156 after 0.000
+2020-06-08 10:58:30 Resume state saved
+2020-06-08 10:58:30 Stall detected on driver(s) 1 2 6 7 8
+2020-06-08 10:58:39 Printing paused at X0.0 Y0.0 Z4.5
+2020-06-08 10:59:07 Printing resumed
+2020-06-08 10:59:08 Resume state saved
+2020-06-08 10:59:08 Stall detected on driver(s) 2
+2020-06-08 10:59:10 Printing paused at X0.0 Y0.0 Z0.6
+2020-06-08 10:59:23 Printing resumed
+2020-06-08 10:59:28 Resume state saved
+2020-06-08 10:59:28 Stall detected on driver(s) 8
+2020-06-08 10:59:33 Printing paused at X330.1 Y277.0 Z0.3
+2020-06-08 10:59:49 Cancelled printing file 0:/gcodes/MB08x03-90-PLA_String-Test-Structure-v10.gcode, print time was 0h 2m
+2020-06-08 11:01:17 Event logging stopped
+power up + 00:00:00 Event logging started
+power up + 00:00:00 Warning: the height map was loaded when the current Z=0 datum was not determined probing. This may result in a height offset.
+power up + 00:00:01 WiFi module started
+power up + 00:00:05 WiFi module is connected to access point IoT Network, IP address 192.168.11.21
+power up + 00:00:05 HTTP client 192.168.1.133 login succeeded
+2020-06-08 11:01:24 Date and time set at power up + 00:00:05
+2020-06-08 11:01:27 Started printing file 0:/gcodes/MB08x03-90-PLA_String-Test-Structure-v10.gcode
+2020-06-08 11:02:33 Leadscrew adjustments made: -0.094 -0.156 -0.100 -0.125, points used 4, deviation before 0.120 after 0.000
+2020-06-08 11:02:36 Resume state saved
+2020-06-08 11:02:36 Stall detected on driver(s) 2
+2020-06-08 11:02:49 Printing paused at X0.0 Y0.0 Z4.5
+2020-06-08 11:03:02 Cancelled printing file 0:/gcodes/MB08x03-90-PLA_String-Test-Structure-v10.gcode, print time was 0h 1m
+2020-06-08 11:03:45 Event logging stopped
+power up + 00:00:00 Event logging started
+power up + 00:00:00 Warning: the height map was loaded when the current Z=0 datum was not determined probing. This may result in a height offset.
+power up + 00:00:01 WiFi module started
+power up + 00:00:05 WiFi module is connected to access point IoT Network, IP address 192.168.11.21
+power up + 00:00:05 HTTP client 192.168.1.133 login succeeded
+2020-06-08 11:03:51 Date and time set at power up + 00:00:05
+2020-06-08 11:03:56 Started printing file 0:/gcodes/MB08x03-90-PLA_String-Test-Structure-v10.gcode
+2020-06-08 11:04:49 Leadscrew adjustments made: -0.099 -0.119 -0.108 -0.106, points used 4, deviation before 0.108 after 0.000
+2020-06-08 11:06:10 Resume state saved
+2020-06-08 11:06:16 Printing paused at X271.4 Y311.1 Z0.3
+2020-06-08 11:06:29 Printing resumed
+2020-06-08 11:07:39 Resume state saved
+2020-06-08 11:07:39 Stall detected on driver(s) 0
+2020-06-08 11:07:51 Printing paused at X329.5 Y312.0 Z0.9
+2020-06-08 11:08:25 Printing resumed
+2020-06-08 11:09:36 Resume state saved
+2020-06-08 11:09:36 Stall detected on driver(s) 0
+2020-06-08 11:09:41 Printing paused at X273.4 Y290.9 Z1.1
+2020-06-08 11:10:15 Printing resumed
+2020-06-08 11:11:12 Resume state saved
+2020-06-08 11:11:12 Stall detected on driver(s) 0
+2020-06-08 11:11:18 Printing paused at X321.9 Y305.7 Z1.8
+2020-06-08 11:11:54 Printing resumed
+2020-06-08 11:12:39 Resume state saved
+2020-06-08 11:12:39 Stall detected on driver(s) 0
+2020-06-08 11:12:44 Printing paused at X276.9 Y291.9 Z1.8
+2020-06-08 11:12:57 Cancelled printing file 0:/gcodes/MB08x03-90-PLA_String-Test-Structure-v10.gcode, print time was 0h 6m
+2020-06-08 11:15:09 Event logging stopped
+power up + 00:00:00 Event logging started
+power up + 00:00:00 Warning: the height map was loaded when the current Z=0 datum was not determined probing. This may result in a height offset.
+power up + 00:00:01 WiFi module started
+power up + 00:00:05 WiFi module is connected to access point IoT Network, IP address 192.168.11.21
+power up + 00:00:05 HTTP client 192.168.1.133 login succeeded
+2020-06-08 11:15:16 Date and time set at power up + 00:00:05
+2020-06-08 11:15:19 Started printing file 0:/gcodes/MB08x03-90-PLA_String-Test-Structure-v10.gcode
+2020-06-08 11:17:00 Leadscrew adjustments made: -0.110 -0.102 -0.094 -0.093, points used 4, deviation before 0.100 after 0.000
+2020-06-08 11:23:28 Resume state saved
+2020-06-08 11:23:28 Stall detected on driver(s) 1
+2020-06-08 11:23:33 Printing paused at X277.9 Y305.1 Z2.3
+2020-06-08 11:24:09 Printing resumed
+2020-06-08 11:25:02 Resume state saved
+2020-06-08 11:25:02 Stall detected on driver(s) 1
+2020-06-08 11:25:07 Printing paused at X278.0 Y305.9 Z2.7
+2020-06-08 11:25:38 Printing resumed
+2020-06-08 11:25:53 Resume state saved
+2020-06-08 11:25:53 Stall detected on driver(s) 1
+2020-06-08 11:26:11 Printing paused at X278.0 Y304.9 Z2.9
+2020-06-08 11:26:21 Cancelled printing file 0:/gcodes/MB08x03-90-PLA_String-Test-Structure-v10.gcode, print time was 0h 9m
+2020-06-08 11:26:49 Event logging stopped
+power up + 00:00:00 Event logging started
+power up + 00:00:00 Warning: the height map was loaded when the current Z=0 datum was not determined probing. This may result in a height offset.
+power up + 00:00:01 WiFi module started
+power up + 00:00:05 WiFi module is connected to access point IoT Network, IP address 192.168.11.21
+power up + 00:00:10 HTTP client 192.168.1.133 login succeeded
+2020-06-08 11:27:01 Date and time set at power up + 00:00:10
+2020-06-08 11:30:48 HTTP client 192.168.1.133 login succeeded
+2020-06-08 11:30:53 HTTP client 192.168.1.133 disconnected
+2020-06-08 11:30:53 Started printing file 0:/gcodes/MB08x03-90-PLA_String-Test-Structure-v10.gcode
+2020-06-08 11:30:54 HTTP client 192.168.1.133 login succeeded
+2020-06-08 11:32:38 Leadscrew adjustments made: -0.158 -0.078 -0.171 -0.134, points used 4, deviation before 0.141 after 0.000
+2020-06-08 11:40:04 Resume state saved
+2020-06-08 11:40:04 Stall detected on driver(s) 1
+2020-06-08 11:40:09 Printing paused at X278.0 Y305.9 Z2.7
+2020-06-08 11:40:36 Printing resumed
+2020-06-08 11:42:24 HTTP client 192.168.1.133 login succeeded
+2020-06-08 11:54:50 Finished printing file 0:/gcodes/MB08x03-90-PLA_String-Test-Structure-v10.gcode, print time was 0h 23m
+2020-06-08 11:59:14 Event logging stopped
+power up + 00:00:00 Event logging started
+power up + 00:00:00 Warning: the height map was loaded when the current Z=0 datum was not determined probing. This may result in a height offset.
+power up + 00:00:01 WiFi module started
+power up + 00:00:05 WiFi module is connected to access point IoT Network, IP address 192.168.11.21
+power up + 00:00:08 HTTP client 192.168.1.133 login succeeded
+2020-06-08 11:59:25 Date and time set at power up + 00:00:08
+2020-06-08 12:00:24 HTTP client 192.168.1.133 login succeeded
+2020-06-08 12:00:43 HTTP client 192.168.1.133 disconnected
+2020-06-08 12:00:43 Started printing file 0:/gcodes/MB08x03-60-PLA_String-Test-Structure-v10.gcode
+2020-06-08 12:00:44 HTTP client 192.168.1.133 login succeeded
+2020-06-08 12:02:31 Leadscrew adjustments made: -0.149 -0.095 -0.140 -0.122, points used 4, deviation before 0.129 after 0.000
+2020-06-08 12:18:55 HTTP client 192.168.1.133 login succeeded
+2020-06-08 12:24:39 HTTP client 192.168.1.133 login succeeded
+2020-06-08 12:29:38 HTTP client 192.168.1.133 login succeeded
+2020-06-08 12:31:02 HTTP client 192.168.1.133 login succeeded
+2020-06-08 12:34:50 HTTP client 192.168.1.133 login succeeded
+2020-06-08 12:36:49 HTTP client 192.168.1.133 login succeeded
+2020-06-08 12:37:53 HTTP client 192.168.1.133 login succeeded
+2020-06-08 12:47:19 HTTP client 192.168.1.133 login succeeded
+2020-06-08 12:47:34 HTTP client 192.168.1.133 login succeeded
+2020-06-08 12:50:21 HTTP client 192.168.1.133 login succeeded
+2020-06-08 12:52:31 HTTP client 192.168.1.133 login succeeded
+2020-06-08 13:19:55 HTTP client 192.168.1.133 login succeeded
+2020-06-08 13:21:52 HTTP client 192.168.1.133 login succeeded
+2020-06-08 13:39:20 HTTP client 192.168.1.133 login succeeded
+2020-06-08 13:56:43 Finished printing file 0:/gcodes/MB08x03-60-PLA_String-Test-Structure-v10.gcode, print time was 1h 56m
+2020-06-08 14:19:17 HTTP client 192.168.1.133 login succeeded
+2020-06-08 14:19:20 HTTP client 192.168.1.133 disconnected
+2020-06-08 14:19:20 Started printing file 0:/gcodes/MB08x02-60-PLA_Temperature-Tower-Tower-v29.gcode
+2020-06-08 14:19:20 HTTP client 192.168.1.133 login succeeded
+2020-06-08 14:23:26 Leadscrew adjustments made: -0.145 -0.148 -0.131 -0.139, points used 4, deviation before 0.141 after 0.000
+2020-06-08 15:21:48 Resume state saved
+2020-06-08 15:21:54 Printing paused at X263.9 Y303.6 Z27.6
+2020-06-08 15:21:54 Cancelled printing file 0:/gcodes/MB08x02-60-PLA_Temperature-Tower-Tower-v29.gcode, print time was 1h 2m
+2020-06-08 16:06:03 Event logging stopped
+power up + 00:00:00 Event logging started
+power up + 00:00:00 Warning: the height map was loaded when the current Z=0 datum was not determined probing. This may result in a height offset.
+power up + 00:00:01 WiFi module started
+power up + 00:00:05 WiFi module is connected to access point IoT Network, IP address 192.168.11.21
+power up + 00:00:09 HTTP client 192.168.1.133 login succeeded
+2020-06-08 16:06:15 Date and time set at power up + 00:00:09
+2020-06-08 16:32:43 HTTP client 192.168.1.133 login succeeded
+2020-06-08 16:33:23 HTTP client 192.168.1.133 disconnected
+2020-06-08 16:33:23 Started printing file 0:/gcodes/MB08x03-60-PLA_Duet-2-Wifi-+-Duex-5-Case-Case-v33.gcode
+2020-06-08 16:33:24 HTTP client 192.168.1.133 login succeeded
+2020-06-08 16:34:36 HTTP client 192.168.1.133 login succeeded
+2020-06-08 16:34:45 HTTP client 192.168.1.133 login succeeded
+2020-06-08 16:35:58 Leadscrew adjustments made: -0.124 -0.072 -0.111 -0.095, points used 4, deviation before 0.103 after 0.000
+2020-06-08 17:29:41 HTTP client 192.168.1.133 attempted login with incorrect password
+2020-06-08 17:49:46 HTTP client 192.168.1.133 login succeeded
+2020-06-08 18:01:14 HTTP client 192.168.1.133 login succeeded
+2020-06-08 18:37:32 HTTP client 192.168.1.133 login succeeded
+2020-06-08 18:54:10 HTTP client 192.168.1.133 login succeeded
+2020-06-08 18:57:20 HTTP client 192.168.1.133 login succeeded
+2020-06-08 19:08:07 HTTP client 192.168.1.133 login succeeded
+2020-06-08 19:11:21 HTTP client 192.168.1.133 login succeeded
+2020-06-08 19:13:26 HTTP client 192.168.1.133 login succeeded
+2020-06-08 19:45:43 HTTP client 192.168.1.133 login succeeded
+2020-06-08 20:44:18 HTTP client 192.168.1.133 login succeeded
+2020-06-08 21:56:40 HTTP client 192.168.1.133 login succeeded
+2020-06-08 22:23:10 HTTP client 192.168.1.133 login succeeded
+2020-06-08 22:24:40 HTTP client 192.168.1.133 login succeeded
+2020-06-08 22:27:49 HTTP client 192.168.1.133 login succeeded
+2020-06-08 22:38:41 HTTP client 192.168.1.133 login succeeded
+2020-06-08 22:40:18 HTTP client 192.168.1.133 login succeeded
+2020-06-08 22:41:30 HTTP client 192.168.1.133 login succeeded
+2020-06-08 22:44:47 HTTP client 192.168.1.133 login succeeded
+2020-06-08 22:48:33 HTTP client 192.168.1.133 login succeeded
+2020-06-08 22:49:31 HTTP client 192.168.1.133 login succeeded
+2020-06-08 23:12:44 HTTP client 192.168.1.133 login succeeded
+2020-06-08 23:23:17 HTTP client 192.168.1.133 login succeeded
+2020-06-08 23:24:57 HTTP client 192.168.1.133 login succeeded
+2020-06-08 23:26:33 HTTP client 192.168.1.133 login succeeded
+2020-06-08 23:49:36 HTTP client 192.168.1.133 login succeeded
+2020-06-08 23:53:24 HTTP client 192.168.1.133 login succeeded
+2020-06-08 23:54:50 HTTP client 192.168.1.133 login succeeded
+2020-06-09 00:25:22 HTTP client 192.168.1.133 login succeeded
+2020-06-09 00:27:21 HTTP client 192.168.1.133 login succeeded
+2020-06-09 00:28:32 HTTP client 192.168.1.133 login succeeded
+2020-06-09 01:01:23 HTTP client 192.168.1.133 login succeeded
+2020-06-09 01:39:01 HTTP client 192.168.1.133 login succeeded
+2020-06-09 01:40:34 HTTP client 192.168.1.133 login succeeded
+2020-06-09 01:50:13 HTTP client 192.168.1.133 login succeeded
+2020-06-09 02:00:38 HTTP client 192.168.1.133 login succeeded
+2020-06-09 02:35:27 HTTP client 192.168.1.133 login succeeded
+2020-06-09 02:56:09 HTTP client 192.168.1.133 login succeeded
+2020-06-09 02:57:28 HTTP client 192.168.1.133 login succeeded
+2020-06-09 03:37:58 HTTP client 192.168.1.133 login succeeded
+2020-06-09 03:40:04 HTTP client 192.168.1.133 login succeeded
+2020-06-09 03:42:52 HTTP client 192.168.1.133 login succeeded
+2020-06-09 04:14:17 HTTP client 192.168.1.133 login succeeded
+2020-06-09 04:30:43 HTTP client 192.168.1.133 login succeeded
+2020-06-09 05:06:13 HTTP client 192.168.1.133 login succeeded
+2020-06-09 05:10:08 HTTP client 192.168.1.133 login succeeded
+2020-06-09 05:11:35 HTTP client 192.168.1.133 login succeeded
+2020-06-09 05:33:34 HTTP client 192.168.1.133 login succeeded
+2020-06-09 06:05:21 HTTP client 192.168.1.133 login succeeded
+2020-06-09 06:07:14 HTTP client 192.168.1.133 login succeeded
+2020-06-09 06:21:28 HTTP client 192.168.1.161 login succeeded
+2020-06-09 06:22:42 HTTP client 192.168.1.161 login succeeded
+2020-06-09 06:25:03 HTTP client 192.168.1.133 login succeeded
+2020-06-09 07:02:06 HTTP client 192.168.1.133 login succeeded
+2020-06-09 07:04:29 HTTP client 192.168.1.133 login succeeded
+2020-06-09 07:09:38 HTTP client 192.168.1.161 attempted login with incorrect password
+2020-06-09 07:09:49 HTTP client 192.168.1.161 login succeeded
+2020-06-09 07:35:23 HTTP client 192.168.1.133 login succeeded
+2020-06-09 07:39:22 HTTP client 192.168.1.133 login succeeded
+2020-06-09 07:45:00 HTTP client 192.168.1.133 login succeeded
+2020-06-09 09:00:59 HTTP client 192.168.1.133 login succeeded
+2020-06-09 10:36:01 HTTP client 192.168.1.133 login succeeded
+2020-06-09 10:41:08 HTTP client 192.168.1.133 login succeeded
+2020-06-09 12:19:22 HTTP client 192.168.1.133 login succeeded
+2020-06-09 12:24:10 HTTP client 192.168.1.133 login succeeded
+2020-06-09 12:36:05 HTTP client 192.168.1.133 login succeeded
+2020-06-09 12:43:54 Finished printing file 0:/gcodes/MB08x03-60-PLA_Duet-2-Wifi-+-Duex-5-Case-Case-v33.gcode, print time was 20h 11m
+2020-06-09 12:44:56 HTTP client 192.168.1.133 login succeeded
+2020-06-09 12:46:53 HTTP client 192.168.1.133 login succeeded
+2020-06-09 12:48:04 HTTP client 192.168.1.133 login succeeded
+2020-06-09 12:50:15 HTTP client 192.168.1.133 login succeeded
+2020-06-09 12:51:49 HTTP client 192.168.1.133 login succeeded
+2020-06-09 12:54:14 HTTP client 192.168.1.133 login succeeded
+2020-06-09 12:57:30 HTTP client 192.168.1.133 login succeeded
+2020-06-09 13:11:34 Event logging stopped
+power up + 00:00:00 Event logging started
+power up + 00:00:00 Warning: the height map was loaded when the current Z=0 datum was not determined probing. This may result in a height offset.
+power up + 00:00:01 WiFi module started
+power up + 00:00:05 WiFi module is connected to access point IoT Network, IP address 192.168.11.21
+power up + 00:00:05 HTTP client 192.168.1.133 login succeeded
+2020-06-09 13:11:45 Date and time set at power up + 00:00:05
+2020-06-09 13:31:44 Event logging stopped
+power up + 00:00:00 Event logging started
+power up + 00:00:00 Warning: the height map was loaded when the current Z=0 datum was not determined probing. This may result in a height offset.
+power up + 00:00:01 WiFi module started
+power up + 00:00:05 WiFi module is connected to access point IoT Network, IP address 192.168.11.21
+power up + 00:00:05 HTTP client 192.168.1.133 login succeeded
+2020-06-09 13:31:51 Date and time set at power up + 00:00:05
+2020-06-09 13:34:11 Leadscrew adjustments made: -0.016 -0.083 0.019 -0.017, points used 4, deviation before 0.043 after 0.000
+2020-06-09 13:34:59 Leadscrew adjustments made: -0.036 -0.045 -0.034 -0.034, points used 4, deviation before 0.037 after 0.000
+2020-06-09 13:36:54 64 points probed, min error -0.200, max error 0.053, mean -0.031, deviation 0.053
+Height map saved to file heightmap.csv
+2020-06-09 13:42:00 Leadscrew adjustments made: -0.149 -0.117 -0.181 -0.138, points used 4, deviation before 0.149 after 0.000
+2020-06-09 13:43:54 64 points probed, min error -0.151, max error 0.089, mean -0.006, deviation 0.061
+Height map saved to file heightmap.csv
+2020-06-09 13:49:18 HTTP client 192.168.1.133 login succeeded
+2020-06-09 13:49:23 HTTP client 192.168.1.133 disconnected
+2020-06-09 13:49:23 Started printing file 0:/gcodes/MB08x03-90-PLA_String-Test-Structure-v10.gcode
+2020-06-09 13:49:24 HTTP client 192.168.1.133 login succeeded
+2020-06-09 13:51:54 Leadscrew adjustments made: -0.027 -0.141 -0.033 -0.099, points used 4, deviation before 0.086 after 0.000
+2020-06-09 13:51:57 Resume state saved
+2020-06-09 13:51:57 Stall detected on driver(s) 2 6 7 8
+2020-06-09 13:52:18 Printing paused at X0.0 Y0.0 Z4.5
+2020-06-09 13:52:38 Printing resumed
+2020-06-09 13:52:38 Warning: Driver(s) 3 stalled at Z height 4.55
+2020-06-09 13:52:39 Resume state saved
+2020-06-09 13:52:39 Stall detected on driver(s) 8
+2020-06-09 13:52:42 Printing paused at X0.0 Y0.0 Z0.5
+2020-06-09 13:54:06 Printing resumed
+2020-06-09 13:54:11 Resume state saved
+2020-06-09 13:54:11 Stall detected on driver(s) 2
+2020-06-09 13:54:16 Printing paused at X330.1 Y277.0 Z0.3
+2020-06-09 13:55:06 Printing resumed
+2020-06-09 13:55:48 Resume state saved
+2020-06-09 13:55:48 Stall detected on driver(s) 7
+2020-06-09 13:55:53 Printing paused at X330.2 Y273.2 Z0.6
+2020-06-09 13:56:19 Printing resumed
+2020-06-09 13:56:20 Resume state saved
+2020-06-09 13:56:20 Stall detected on driver(s) 2
+2020-06-09 13:56:25 Printing paused at X319.7 Y290.7 Z0.3
+2020-06-09 13:59:14 Printing resumed
+2020-06-09 13:59:14 Warning: Driver(s) 3 stalled at Z height 0.30
+2020-06-09 13:59:21 Resume state saved
+2020-06-09 13:59:21 Stall detected on driver(s) 2
+2020-06-09 13:59:26 Printing paused at X318.6 Y290.6 Z0.6
+2020-06-09 14:00:33 Printing resumed
+2020-06-09 14:00:37 Resume state saved
+2020-06-09 14:00:37 Stall detected on driver(s) 0
+2020-06-09 14:00:42 Printing paused at X295.1 Y293.6 Z0.6
+2020-06-09 14:02:04 Cancelled printing file 0:/gcodes/MB08x03-90-PLA_String-Test-Structure-v10.gcode, print time was 0h 4m
+2020-06-09 14:02:04 Event logging stopped
+power up + 00:00:00 Event logging started
+power up + 00:00:00 Warning: the height map was loaded when the current Z=0 datum was not determined probing. This may result in a height offset.
+power up + 00:00:01 WiFi module started
+power up + 00:00:05 WiFi module is connected to access point IoT Network, IP address 192.168.11.21
+power up + 00:00:08 HTTP client 192.168.1.133 login succeeded
+2020-06-09 14:02:14 Date and time set at power up + 00:00:08
+2020-06-09 14:02:25 Started printing file 0:/gcodes/MB08x03-90-PLA_String-Test-Structure-v10.gcode
+2020-06-09 14:03:06 Leadscrew adjustments made: -0.067 -0.078 -0.063 -0.070, points used 4, deviation before 0.070 after 0.000
+2020-06-09 14:03:57 Warning: Driver(s) 3 stalled at Z height 0.30
+2020-06-09 14:04:45 Resume state saved
+2020-06-09 14:04:45 Stall detected on driver(s) 0
+2020-06-09 14:04:50 Printing paused at X278.8 Y308.7 Z0.3
+2020-06-09 14:06:22 Printing resumed
+2020-06-09 14:06:22 Warning: Driver(s) 3 stalled at Z height 0.30
+2020-06-09 14:06:28 Warning: Driver(s) 3 stalled at Z height 0.55
+2020-06-09 14:06:31 Resume state saved
+2020-06-09 14:06:31 Stall detected on driver(s) 1
+2020-06-09 14:06:36 Printing paused at X324.9 Y297.7 Z0.3
+2020-06-09 14:07:07 Printing resumed
+2020-06-09 14:07:08 Warning: Driver(s) 3 stalled at Z height 0.30
+2020-06-09 14:07:14 Warning: Driver(s) 3 stalled at Z height 0.30
+2020-06-09 14:07:54 Resume state saved
+2020-06-09 14:07:54 Stall detected on driver(s) 0
+2020-06-09 14:08:04 Printing paused at X329.5 Y312.0 Z0.9
+2020-06-09 14:09:13 Printing resumed
+2020-06-09 14:09:22 Resume state saved
+2020-06-09 14:09:22 Stall detected on driver(s) 5
+2020-06-09 14:09:35 Printing paused at X296.6 Y308.0 Z0.9
+2020-06-09 14:10:37 Printing resumed
+2020-06-09 14:11:40 Resume state saved
+2020-06-09 14:11:40 Stall detected on driver(s) 0
+2020-06-09 14:11:45 Printing paused at X273.4 Y290.9 Z1.1
+2020-06-09 14:12:18 Printing resumed
+2020-06-09 14:15:03 Resume state saved
+2020-06-09 14:15:03 Stall detected on driver(s) 1
+2020-06-09 14:15:08 Printing paused at X277.9 Y305.1 Z2.3
+2020-06-09 14:15:55 Printing resumed
+2020-06-09 14:15:56 Resume state saved
+2020-06-09 14:15:56 Stall detected on driver(s) 0
+2020-06-09 14:16:01 Printing paused at X299.7 Y305.1 Z2.3
+2020-06-09 14:16:26 Printing resumed
+2020-06-09 14:17:18 Resume state saved
+2020-06-09 14:17:18 Stall detected on driver(s) 1
+2020-06-09 14:17:23 Printing paused at X278.0 Y305.9 Z2.7
+2020-06-09 14:17:55 Printing resumed
+2020-06-09 14:19:01 Resume state saved
+2020-06-09 14:19:01 Stall detected on driver(s) 1
+2020-06-09 14:19:06 Printing paused at X277.9 Y305.9 Z3.8
+2020-06-09 14:19:56 Printing resumed
+2020-06-09 14:21:43 Resume state saved
+2020-06-09 14:21:43 Stall detected on driver(s) 1
+2020-06-09 14:21:48 Printing paused at X322.0 Y305.9 Z5.7
+2020-06-09 14:22:15 Printing resumed
+2020-06-09 14:22:45 Resume state saved
+2020-06-09 14:22:45 Stall detected on driver(s) 1
+2020-06-09 14:22:51 Printing paused at X322.0 Y305.9 Z6.2
+2020-06-09 14:23:45 Printing resumed
+2020-06-09 14:32:50 Resume state saved
+2020-06-09 14:32:50 Stall detected on driver(s) 1
+2020-06-09 14:32:55 Printing paused at X278.0 Y305.9 Z19.5
+2020-06-09 14:38:12 HTTP client 192.168.1.133 login succeeded
+2020-06-09 14:39:15 Printing resumed
+2020-06-09 14:41:00 Finished printing file 0:/gcodes/MB08x03-90-PLA_String-Test-Structure-v10.gcode, print time was 0h 22m
+2020-06-09 14:46:32 HTTP client 192.168.1.133 login succeeded
+2020-06-09 14:47:27 Event logging stopped
+power up + 00:00:00 Event logging started
+power up + 00:00:00 Warning: the height map was loaded when the current Z=0 datum was not determined probing. This may result in a height offset.
+power up + 00:00:01 WiFi module started
+power up + 00:00:05 WiFi module is connected to access point IoT Network, IP address 192.168.11.21
+power up + 00:00:05 HTTP client 192.168.1.133 login succeeded
+2020-06-09 14:47:33 Date and time set at power up + 00:00:05
+2020-06-09 14:48:35 Started printing file 0:/gcodes/MB08x03-90-PLA_String-Test-Structure-v10.gcode
+2020-06-09 14:50:31 Leadscrew adjustments made: -0.147 -0.028 -0.155 -0.088, points used 4, deviation before 0.117 after 0.000
+2020-06-09 15:11:35 HTTP client 192.168.1.133 login succeeded
+2020-06-09 15:12:12 Finished printing file 0:/gcodes/MB08x03-90-PLA_String-Test-Structure-v10.gcode, print time was 0h 24m
+2020-06-09 15:13:36 HTTP client 192.168.1.133 login succeeded
+2020-06-09 15:14:11 Event logging stopped
+power up + 00:00:00 Event logging started
+power up + 00:00:00 Warning: the height map was loaded when the current Z=0 datum was not determined probing. This may result in a height offset.
+power up + 00:00:01 WiFi module started
+power up + 00:00:05 WiFi module is connected to access point IoT Network, IP address 192.168.11.21
+power up + 00:00:05 HTTP client 192.168.1.133 login succeeded
+2020-06-09 15:14:17 Date and time set at power up + 00:00:05
+2020-06-09 15:15:47 HTTP client 192.168.1.133 login succeeded
+2020-06-09 15:15:51 HTTP client 192.168.1.133 disconnected
+2020-06-09 15:15:51 Started printing file 0:/gcodes/MB08x03-90-PLA_String-Test-Structure-v10.gcode
+2020-06-09 15:15:52 HTTP client 192.168.1.133 login succeeded
+2020-06-09 15:17:12 Leadscrew adjustments made: -0.089 -0.108 -0.074 -0.099, points used 4, deviation before 0.093 after 0.000
+2020-06-09 15:29:40 HTTP client 192.168.1.133 login succeeded
+2020-06-09 15:38:54 Finished printing file 0:/gcodes/MB08x03-90-PLA_String-Test-Structure-v10.gcode, print time was 0h 23m
+2020-06-09 15:46:27 HTTP client 192.168.1.133 login succeeded
+2020-06-09 16:19:55 HTTP client 192.168.1.133 login succeeded
+2020-06-09 16:38:02 HTTP client 192.168.1.133 login succeeded
+2020-06-09 16:59:27 HTTP client 192.168.1.133 login succeeded
+2020-06-09 17:01:37 HTTP client 192.168.1.133 login succeeded
+2020-06-09 17:14:21 HTTP client 192.168.1.133 login succeeded
+2020-06-09 17:36:16 HTTP client 192.168.1.133 login succeeded
+2020-06-09 17:45:33 HTTP client 192.168.1.133 login succeeded
+2020-06-09 17:57:51 HTTP client 192.168.1.133 login succeeded
+2020-06-09 18:47:12 HTTP client 192.168.1.133 login succeeded
+2020-06-09 18:47:14 HTTP client 192.168.1.133 disconnected
+2020-06-09 18:47:14 Started printing file 0:/gcodes/MB08x02-150-PLA_Acceleration-Jerk-Junction-Tuning-Body1-v3.gcode
+2020-06-09 18:47:14 HTTP client 192.168.1.133 login succeeded
+2020-06-09 18:47:24 Resume state saved
+2020-06-09 18:47:24 Printing paused at X0.0 Y600.0 Z21.9
+2020-06-09 18:47:28 Cancelled printing file 0:/gcodes/MB08x02-150-PLA_Acceleration-Jerk-Junction-Tuning-Body1-v3.gcode, print time was 0h 0m
+2020-06-09 18:48:02 HTTP client 192.168.1.133 login succeeded
+2020-06-09 18:48:04 HTTP client 192.168.1.133 disconnected
+2020-06-09 18:48:04 Started printing file 0:/gcodes/MB08x02-150-PLA_Acceleration-Jerk-Junction-Tuning-Body1-v3.gcode
+2020-06-09 18:48:05 HTTP client 192.168.1.133 login succeeded
+2020-06-09 18:51:32 Leadscrew adjustments made: -0.138 -0.101 -0.166 -0.154, points used 4, deviation before 0.142 after 0.000
+2020-06-09 18:52:48 Resume state saved
+2020-06-09 18:52:55 Printing paused at X330.8 Y253.4 Z0.3
+2020-06-09 18:53:01 Cancelled printing file 0:/gcodes/MB08x02-150-PLA_Acceleration-Jerk-Junction-Tuning-Body1-v3.gcode, print time was 0h 5m
+2020-06-09 18:54:32 HTTP client 192.168.1.133 login succeeded
+2020-06-09 18:54:36 HTTP client 192.168.1.133 disconnected
+2020-06-09 18:54:36 Started printing file 0:/gcodes/MB08x02-150-PLA_Acceleration-Jerk-Junction-Tuning-Body1-v3.gcode
+2020-06-09 18:54:37 HTTP client 192.168.1.133 login succeeded
+2020-06-09 18:55:37 Leadscrew adjustments made: -0.048 -0.154 -0.048 -0.105, points used 4, deviation before 0.097 after 0.000
+2020-06-09 18:58:09 Resume state saved
+2020-06-09 18:58:15 Printing paused at X359.1 Y318.3 Z0.3
+2020-06-09 18:58:23 Printing resumed
+2020-06-09 19:06:15 HTTP client 192.168.1.133 login succeeded
+2020-06-09 19:07:20 HTTP client 192.168.1.133 login succeeded
+2020-06-09 19:15:30 HTTP client 192.168.1.133 login succeeded
+2020-06-09 19:18:25 HTTP client 192.168.1.133 login succeeded
+2020-06-09 19:38:02 HTTP client 192.168.1.133 login succeeded
+2020-06-09 19:41:04 HTTP client 192.168.1.133 login succeeded
+2020-06-09 20:06:08 Finished printing file 0:/gcodes/MB08x02-150-PLA_Acceleration-Jerk-Junction-Tuning-Body1-v3.gcode, print time was 1h 11m
+2020-06-09 20:20:51 HTTP client 192.168.1.133 login succeeded
+2020-06-09 20:50:48 HTTP client 192.168.1.133 login succeeded
+2020-06-09 20:52:13 HTTP client 192.168.1.133 login succeeded
+2020-06-09 21:01:26 HTTP client 192.168.1.133 login succeeded
+2020-06-09 21:41:33 HTTP client 192.168.1.133 login succeeded
+2020-06-09 21:57:06 HTTP client 192.168.1.133 login succeeded
+2020-06-09 22:01:36 HTTP client 192.168.1.133 login succeeded
+2020-06-09 22:14:56 HTTP client 192.168.1.133 login succeeded
+2020-06-09 22:23:07 Leadscrew adjustments made: -0.007 -0.005 0.020 0.018, points used 4, deviation before 0.014 after 0.000
+2020-06-09 22:23:58 Leadscrew adjustments made: 0.001 0.005 0.011 0.010, points used 4, deviation before 0.008 after 0.000
+2020-06-09 22:34:53 HTTP client 192.168.1.133 login succeeded
+2020-06-09 22:35:08 HTTP client 192.168.1.133 disconnected
+2020-06-09 22:35:08 Started printing file 0:/gcodes/MB08x03-60-PLA_Chess-set-v4.gcode
+2020-06-09 22:35:09 HTTP client 192.168.1.133 login succeeded
+2020-06-09 22:35:37 Resume state saved
+2020-06-09 22:37:15 Warning: Tool 0 was not driven because its heater temperatures were not high enough or it has a heater fault
+2020-06-09 22:37:17 Printing paused at X0.0 Y0.0 Z4.6
+2020-06-09 22:37:21 Cancelled printing file 0:/gcodes/MB08x03-60-PLA_Chess-set-v4.gcode, print time was 0h 0m
+2020-06-09 22:38:02 HTTP client 192.168.1.133 login succeeded
+2020-06-09 22:38:17 HTTP client 192.168.1.133 disconnected
+2020-06-09 22:38:17 Started printing file 0:/gcodes/MB08x03-60-PLA_Chess-set-v4.gcode
+2020-06-09 22:38:18 HTTP client 192.168.1.133 login succeeded
+2020-06-09 22:40:35 Leadscrew adjustments made: -0.138 -0.086 -0.180 -0.138, points used 4, deviation before 0.140 after 0.000
+2020-06-10 00:08:56 HTTP client 192.168.1.133 login succeeded
+2020-06-10 01:01:42 Finished printing file 0:/gcodes/MB08x03-60-PLA_Chess-set-v4.gcode, print time was 2h 23m
+2020-06-10 04:43:25 HTTP client 192.168.1.161 attempted login with incorrect password
+2020-06-10 04:43:37 HTTP client 192.168.1.161 login succeeded
+2020-06-10 05:06:30 HTTP client 192.168.1.161 login succeeded
+2020-06-10 05:09:07 Event logging stopped
+power up + 00:00:00 Event logging started
+power up + 00:00:00 Warning: the height map was loaded when the current Z=0 datum was not determined probing. This may result in a height offset.
+power up + 00:00:01 WiFi module started
+power up + 00:00:05 WiFi module is connected to access point IoT Network, IP address 192.168.11.21
+power up + 00:00:06 HTTP client 192.168.1.133 login succeeded
+2020-06-10 05:09:16 Date and time set at power up + 00:00:06
+2020-06-10 05:09:16 HTTP client 192.168.1.161 login succeeded
+2020-06-10 05:11:25 Event logging stopped
+power up + 00:00:00 Event logging started
+power up + 00:00:00 Warning: the height map was loaded when the current Z=0 datum was not determined probing. This may result in a height offset.
+power up + 00:00:01 WiFi module started
+power up + 00:00:05 WiFi module is connected to access point IoT Network, IP address 192.168.11.21
+power up + 00:00:09 HTTP client 192.168.1.161 login succeeded
+2020-06-10 05:11:38 Date and time set at power up + 00:00:09
+2020-06-10 05:11:38 HTTP client 192.168.1.133 login succeeded
+2020-06-10 05:15:03 Event logging stopped
+power up + 00:00:00 Event logging started
+power up + 00:00:00 Warning: the height map was loaded when the current Z=0 datum was not determined probing. This may result in a height offset.
+power up + 00:00:01 WiFi module started
+power up + 00:00:05 WiFi module is connected to access point IoT Network, IP address 192.168.11.21
+power up + 00:00:05 HTTP client 192.168.1.161 login succeeded
+2020-06-10 05:15:07 Date and time set at power up + 00:00:05
+2020-06-10 05:15:07 HTTP client 192.168.1.133 login succeeded
+2020-06-10 05:42:03 HTTP client 192.168.1.161 login succeeded
+2020-06-10 05:42:52 Event logging stopped
+power up + 00:00:00 Event logging started
+power up + 00:00:00 Warning: the height map was loaded when the current Z=0 datum was not determined probing. This may result in a height offset.
+power up + 00:00:01 WiFi module started
+power up + 00:00:05 WiFi module is connected to access point IoT Network, IP address 192.168.11.21
+power up + 00:00:05 HTTP client 192.168.1.161 login succeeded
+2020-06-10 05:42:59 Date and time set at power up + 00:00:05
+2020-06-10 05:43:00 HTTP client 192.168.1.133 login succeeded
+2020-06-10 08:34:58 HTTP client 192.168.1.133 login succeeded
+2020-06-10 09:12:25 HTTP client 192.168.1.133 login succeeded
+2020-06-10 09:13:36 HTTP client 192.168.1.133 login succeeded
+2020-06-10 09:21:58 Leadscrew adjustments made: -0.007 -0.045 0.030 0.012, points used 4, deviation before 0.028 after 0.000
+2020-06-10 09:33:12 HTTP client 192.168.1.133 login succeeded
+2020-06-10 09:38:24 HTTP client 192.168.1.133 login succeeded
+2020-06-10 09:38:38 HTTP client 192.168.1.133 disconnected
+2020-06-10 09:38:38 Started printing file 0:/gcodes/MB08x03-60-PLA_Chess-set-v4.gcode
+2020-06-10 09:38:39 HTTP client 192.168.1.133 login succeeded
+2020-06-10 09:39:30 Leadscrew adjustments made: -0.105 -0.119 -0.133 -0.143, points used 4, deviation before 0.126 after 0.000
+2020-06-10 09:49:26 HTTP client 192.168.1.133 login succeeded
+2020-06-10 09:51:27 Resume state saved
+2020-06-10 09:51:33 Printing paused at X309.6 Y357.6 Z1.2
+2020-06-10 09:52:08 Cancelled printing file 0:/gcodes/MB08x03-60-PLA_Chess-set-v4.gcode, print time was 0h 13m
+2020-06-10 09:52:08 Event logging stopped
+power up + 00:00:00 Event logging started
+power up + 00:00:00 Warning: the height map was loaded when the current Z=0 datum was not determined probing. This may result in a height offset.
+power up + 00:00:01 WiFi module started
+power up + 00:00:07 WiFi module is connected to access point IoT Network, IP address 192.168.11.21
+power up + 00:01:26 Leadscrew adjustments made: -0.074 -0.122 -0.082 -0.095, points used 4, deviation before 0.095 after 0.000
+power up + 00:05:55 HTTP client 192.168.1.133 login succeeded
+2020-06-10 09:58:06 Date and time set at power up + 00:05:55
+2020-06-10 09:59:09 HTTP client 192.168.1.133 login succeeded
+2020-06-10 09:59:25 HTTP client 192.168.1.133 disconnected
+2020-06-10 09:59:25 Started printing file 0:/gcodes/MB08x03-60-PLA_Chess-set-v4.gcode
+2020-06-10 09:59:25 HTTP client 192.168.1.133 login succeeded
+2020-06-10 09:59:51 Leadscrew adjustments made: -0.154 -0.053 -0.164 -0.104, points used 4, deviation before 0.128 after 0.000
+2020-06-10 10:00:41 Resume state saved
+2020-06-10 10:00:47 Printing paused at X242.3 Y260.7 Z0.3
+2020-06-10 10:00:52 Cancelled printing file 0:/gcodes/MB08x03-60-PLA_Chess-set-v4.gcode, print time was 0h 1m
+2020-06-10 10:14:14 Event logging stopped
+power up + 00:00:00 Event logging started
+power up + 00:00:00 Warning: the height map was loaded when the current Z=0 datum was not determined probing. This may result in a height offset.
+power up + 00:00:01 WiFi module started
+power up + 00:00:05 WiFi module is connected to access point IoT Network, IP address 192.168.11.21
+power up + 00:00:17 HTTP client 192.168.1.133 login succeeded
+2020-06-10 10:14:25 Date and time set at power up + 00:00:17
+2020-06-10 10:14:44 HTTP client 192.168.1.133 login succeeded
+2020-06-10 10:15:04 HTTP client 192.168.1.133 disconnected
+2020-06-10 10:15:04 Started printing file 0:/gcodes/MB08x03-60-PLA_Chess-set-v4.gcode
+2020-06-10 10:15:04 Resume state saved
+2020-06-10 10:15:04 Extruder 1 reports no filament
+2020-06-10 10:15:04 Printing paused at X0.0 Y0.0 Z0.0
+2020-06-10 10:15:04 HTTP client 192.168.1.133 login succeeded
+2020-06-10 10:17:59 Printing resumed
+2020-06-10 10:19:41 Leadscrew adjustments made: -0.135 -0.109 -0.122 -0.112, points used 4, deviation before 0.120 after 0.000
+2020-06-10 10:38:25 HTTP client 192.168.1.133 login succeeded
+2020-06-10 10:53:12 HTTP client 192.168.1.133 login succeeded
+2020-06-10 11:07:27 HTTP client 192.168.1.133 login succeeded
+2020-06-10 11:30:34 HTTP client 192.168.1.133 login succeeded
+2020-06-10 12:42:34 Finished printing file 0:/gcodes/MB08x03-60-PLA_Chess-set-v4.gcode, print time was 2h 25m
+2020-06-10 13:01:03 HTTP client 192.168.1.133 attempted login with incorrect password
+2020-06-10 14:42:19 HTTP client 192.168.1.133 login succeeded
