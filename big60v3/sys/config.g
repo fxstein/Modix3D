@@ -103,8 +103,7 @@ M557 X0:580 Y0:580 P8:8				; Define mesh grid. 64 Points
 M376 H10							; Height (mm) over which to taper off the bed compensation
 
 ; Z leadscrew positions - mainly when used with Duex5 expansion and individual z motor drivers
-M671 X0:0:600:600 Y0:600:0:600		; Z leadscrews are approx at (0,0), (0,600), (600,0) and (600,600)
-; TODO: correct leadscrew positions
+M671 X-170:-170:695:695 Y-70:650:-70:650		; Z leadscrews are approx at (-170,-70), (-170,650), (695,-70) and (695,650)
 
 ; Heaters
 ;Bed:
