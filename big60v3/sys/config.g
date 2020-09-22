@@ -12,6 +12,7 @@
 ;   Quicker retractions aid in elimination of Volcano stringing
 ; - Increase Z max speed from 200mm/min to 300mm/min or 5mm/s for quicker z-hops
 ; - Recalibrated extruder steps per mm
+; - Replace tmep sensor with PT1000 and increase max temp to 300C
 ;
 ; Duet2Wifi + Duex5
 ; - Split x-axis to individual drives 0:5
