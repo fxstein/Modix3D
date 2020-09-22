@@ -117,14 +117,14 @@ M307 H0 A19 C26 D4 V24 S1.0 B0		; PID calibration from macro run
 ;E0:
 ;M305 P1 T100000 B4725 C7.060000e-8 R4700	; Set thermistor + ADC parameters for heater 1
 M305 P1 X501 								; heater 1 uses a PT1000 connected to thermistor channel 1
-M143 H1 S285								; Set temperature limit for heater 1 to 285C
+M143 H1 S300								; Set temperature limit for heater 1 to 300C
 ;M307 H1 A# C# D# V# S1.0 B0				; PID calibration template
 ;M307 H1 A19 C26 D4 V24 S1.0 B0				; PID calibration from macro run
 
 ;E1:
 ;M305 P2 T100000 B4725 C7.060000e-8 R4700	; Set thermistor + ADC parameters for heater 2
 M305 P2 X502 								; heater 2 uses a PT1000 connected to thermistor channel 2
-M143 H2 S285								; Set temperature limit for heater 2 to 285C
+M143 H2 S300								; Set temperature limit for heater 2 to 300C
 ;M307 H2 A# C# D# V# S1.0 B0				; PID calibration template
 ;M307 H2 A19 C26 D4 V24 S1.0 B0				; PID calibration from macro run
 
