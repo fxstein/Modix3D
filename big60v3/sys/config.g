@@ -136,6 +136,7 @@ M106 P2 T35:65 B10 H100:101:102 C"Duet Fan"	; Thermostatic fan to cool the Duet2
 M106 P3 T35:65 B10 H100:101:102 C"Duex Fan"	; Thermostatic fan to cool the Duex5
 M106 P4 T40:50 B10 H1 C"E0 Cool Fan"		; Thermostatic fan for cool side of E0 only when tool is heated
 M106 P5 T40:50 B10 H2 C"E1 Cool Fan"		; Thermostatic fan for cool side of E1 only when tool is heated
+M106 P8 T40 B10 H0 C"Air Filter"			; Thermostatic controlled air filter when bed is heated over 40C
 
 ; Tools
 M563 P0 S"E0" D0 H1 F0				; Define tool 0
